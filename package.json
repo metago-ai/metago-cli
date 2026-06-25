@@ -1,0 +1,46 @@
+{
+  "name": "metago-cli",
+  "version": "1.0.1",
+  "description": "MetaGO CLI - 在终端中直接调用元构能力引擎，让 AI 从工具进化为生命体",
+  "main": "src/index.js",
+  "bin": {
+    "metago": "bin/metago.js"
+  },
+  "scripts": {
+    "start": "node bin/metago.js",
+    "version:check": "node bin/metago.js --version",
+    "list": "node bin/metago.js list",
+    "help": "node bin/metago.js help"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "keywords": [
+    "metago",
+    "cli",
+    "ai",
+    "lifeform",
+    "skill",
+    "lifeform-kit",
+    "agent"
+  ],
+  "author": "MetaGO Lightyear",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/metago/metago-cli.git"
+  },
+  "homepage": "https://gitee.com/metago/metago-cli",
+  "bugs": {
+    "url": "https://gitee.com/metago/metago-cli/issues"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ]
+}
