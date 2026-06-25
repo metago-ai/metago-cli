@@ -1,6 +1,6 @@
 {
   "name": "metago-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MetaGO CLI - 在终端中直接调用元构能力引擎，让 AI 从工具进化为生命体",
   "main": "src/index.js",
   "bin": {
