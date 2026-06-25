@@ -222,6 +222,18 @@ MetaGO 产品矩阵分三阶段推进：
 
 `metago-cli` 是第 3 阶段的关键交付：它使元构能力从"IDE 内的辅助"升级为"全域可调用的能力底座"，为后续的 MCP Server 对外服务、CI 集成、批处理自动化、Agent 编排奠定基础。
 
+### 完整产品矩阵
+
+| 产品 | 类型 | 描述 |
+|------|------|------|
+| [Lifeform Kit](https://gitee.com/metago/metagolifeform) | 核心包 | 22核心+4Dev Kit技能，7平台支持 |
+| [Dev Kit](https://gitee.com/metago/metago-dev-kit) | 垂直包 | 开发者增强包（8技能） |
+| [MCP Server](https://www.npmjs.com/package/@metago-ai/mcp-server) | 平台工具 | 22 tools + 8 prompts MCP服务 |
+| **CLI**（本产品） | 平台工具 | 跨平台命令行工具 |
+| [Studio](https://gitee.com/metago/metago-studio) | 平台工具 | 可视化技能编排平台 |
+| [Skills SDK](https://gitee.com/metago/skills-sdk) | 生态基础设施 | TypeScript技能开发SDK |
+| [Skills Hub](https://gitee.com/metago/skills-hub) | 生态基础设施 | 技能市场 |
+
 ## 文件结构
 
 ```
