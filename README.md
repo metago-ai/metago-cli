@@ -1,8 +1,8 @@
-# MetaGO CLI
+﻿# MetaGO CLI
 
 > 让 AI 从工具进化为生命体 —— 在终端中直接调用元构能力引擎
 
-`metago-cli` 是 [MetaGO Lifeform Kit](https://gitee.com/metago/metago-lifeform) 的命令行接口工具，让你无需依赖任何 IDE，即可在终端中列出、查看、调用"元构能力引擎"的 26 个生命体技能。
+`metago-cli` 是 [MetaGO Lifeform Kit](https://gitee.com/metago/metagolifeform) 的命令行接口工具，让你无需依赖任何 IDE，即可在终端中列出、查看、调用"元构能力引擎"的 26 个生命体技能。
 
 ## 特性
 
@@ -279,3 +279,5 @@ MIT (c) MetaGO Lightyear
 ## 仓库
 
 - Gitee: https://gitee.com/metago/metago-cli.git
+- GitHub 主仓库：https://github.com/metago-ai/metagolifeform
+- 官方网站：https://metago-d6gfw1e4rf2a5bcad-1257074864.tcloudbaseapp.com/
