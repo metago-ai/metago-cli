@@ -4,7 +4,7 @@
 
 - 操作系统：
 - Node.js 版本：
-- MetaGO CLI 版本：1.0.2
+- MetaGO CLI 版本：1.0.3
 - 安装方式（npm / git clone）：
 
 ## 问题描述
